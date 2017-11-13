@@ -124,10 +124,15 @@ Tokensale costs: 1% of tokens
 
 Above is an approximation of final token distribution. This may vary depending on the amount of WBC tokens sold,  final ETH and BTC price and other factors.
 The token sale address will be announced at the start of the token sale through the following avenues: 
+
 Website:  http://webercoin.io
+
 Slack Invite:  http://joinwebercoin.herokuapp.com/  
+
 Slack Direct Link:  https://joinwebercoin.slack.com/ 
+
 Twitter:  @webercoin 
+
 Instagram: @webercoin
 
 POST TOKEN SALE: HOLDING OF THE FUNDS
@@ -168,9 +173,14 @@ WEB AD LTD. EXPRESSLY DISCLAIMS ANY AND ALL RESPONSIBILITY AND LIABILITY TO ANY 
 Appendix
 
 [1] Big data brokers [Online]. Available: https://gizmodo.com/5991070/big-data-brokers-they-know-everything-about-you-and-sell-it-to-the-highest-bidder
+
 [2] Stable Whitepaper v 0.9.6 [Online]. Available: https://stable.foundation/wp-content/uploads/2017/07/stable_white_paper_v_0_96.pdf
+
 [3] The next big thing [Online]. Available: https://www.economist.com/news/special-report/21650295-or-it-next-big-thing
+
 [4] Indorse Whitepaper-v1.1. [Online]. Available: https://blog.indorse.io/why-we-are-building-a-decentralized-professional-network-indorse-8905d831f55a
+
 [5] Ethercasts, “State of the Dapps”. [Online]. Available: https://dapps.ethercasts.com
+
 [6] N. Popper, “Business Giants to Announce Creation of a Computing System Based on Ethereum”, The New York Times, Feb. 27, 2017. [Online]. Available: https://www.nytimes.com/2017/27/business/dealbook/Ethereum-alliance-business-banking-security.html?mcubz=2&_r=0
 
