@@ -1,4 +1,4 @@
-Webercoin
+WEBERCOIN
 
 ABSTRACT
 
